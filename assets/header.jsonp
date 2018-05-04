@@ -1,0 +1,53 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-29-4 13:5:1",
+  "loopSlideshow" : 0,
+  "filename" : "JieMi_Wayfinding",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "JieMi_Wayfinding",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "C37DC396-D7A0-4472-A903-CC4B9D460B16",
+    "154A8E3D-04AC-432C-B20A-0C1396595B69",
+    "5F29C48C-324C-45E3-B730-55D25B46E907",
+    "DD33314C-8F8D-4AA1-9F1A-27B369C3834B",
+    "65C75DC9-2C14-4242-8339-35D0C9ACC12E",
+    "8543CCCA-46B5-4C48-9E7E-52183BCF5170",
+    "97C1CB24-87C0-4361-8438-A535CE582266",
+    "19DC7FE6-62A8-4BA0-A006-E180DC09BD45",
+    "20ABC8EC-C16B-4169-916A-5019A50B939D",
+    "5BC63916-CAF9-4654-A625-9F7C4686ECB4",
+    "F37A419D-A810-4CA6-8D48-8F863F931172",
+    "B95AC2E3-A944-4D55-8F5C-112CC430FA82",
+    "8CFC313B-225A-401D-83B9-728ADA344E53",
+    "17BDD66E-24E9-46B1-A862-DDC023ED13A7",
+    "4ECB0CDC-E0D1-41F5-8F96-58481DFEB2BE",
+    "2CE06308-5CFA-4C2A-B3BF-390AD9BB248F",
+    "6E54271D-2C11-495C-95FF-852A4D61446C",
+    "F6C3E0C7-483F-415F-ADBC-0ACE3C9ADE75",
+    "DE58B83B-1B48-43A4-B1B9-278B9E279A33",
+    "BDAF4DB5-6C79-42D5-B19E-0BC3B6933738"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1980,
+  "slideHeight" : 768,
+  "slideCount" : 20,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue",
+    "HelveticaNeue-Italic",
+    "Helvetica",
+    "GillSans",
+    "HelveticaNeue-MediumItalic",
+    "HelveticaNeue-Medium"
+  ]
+} )
